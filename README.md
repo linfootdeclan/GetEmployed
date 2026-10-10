@@ -1,11 +1,12 @@
-# Job Hunt
+# GetEmployed
 
 A plugin that runs a job search from start to finish. It starts by learning what job you actually want, then finds matching openings, keeps them in a Job Search Tracker, builds tailored applications, fills the forms for your review, follows up with hiring contacts, and tracks every reply.
 
 ## Install
 
 ```
-/plugin install job-hunt --marketplace linfootdeclan/job-hunt
+/plugin marketplace add linfootdeclan/job-hunt
+/plugin install get-employed@get-employed
 ```
 
 Requires Claude Code 2.1.275 or later, or the Claude desktop app with plugins turned on.
@@ -75,6 +76,10 @@ Your résumés, cover letters, and the tracker spreadsheet are saved in `Downloa
 
 - Mock interviews with feedback
 - Follow-up and thank-you note drafts
+
+## Privacy and data
+
+The plugin is written instructions only: no code, hooks, servers, or analytics, and the author receives none of your data. Search terms go to the job-search connectors you enable (Indeed, JobsPipe) and to web search; your résumé goes only to employers you apply to, and only after you approve each application. Full details: [Privacy](PRIVACY.md).
 
 ## License and author
 
