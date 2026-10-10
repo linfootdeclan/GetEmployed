@@ -1,6 +1,6 @@
 ---
 name: job-description
-description: Interviews the user about the job they actually want (where, pay, schedule, skills, employer and culture) and saves it as their Job Description profile, which defines what a 1 to 5 rating means for them. Run first, before any other job-hunt skill. Use when the user starts a job search, says "set up my job search," "define what I'm looking for," "update my job description," or when another skill finds no profile.
+description: Interviews the user about the job they actually want (where, pay, schedule, skills, employer and culture) and saves it as their Job Description profile, which defines what a 1 to 5 rating means for them. Run first, before any other GetEmployed skill. Use when the user starts a job search, says "set up my job search," "define what I'm looking for," "update my job description," or when another skill finds no profile.
 ---
 
 # Job Description (run this first)

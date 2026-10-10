@@ -1,6 +1,6 @@
 {
   "name": "get-employed",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "description": "Starts by learning what job you want, then finds matching openings, builds tailored résumés and cover letters, fills applications for your review, contacts hiring managers, and tracks every reply.",
   "author": {
     "name": "Declan Linfoot",
@@ -8,9 +8,9 @@
     "url": "https://github.com/linfootdeclan"
   },
   "license": "MIT",
-  "homepage": "https://github.com/linfootdeclan/job-hunt",
-  "repository": "https://github.com/linfootdeclan/job-hunt",
+  "homepage": "https://github.com/linfootdeclan/GetEmployed",
+  "repository": "https://github.com/linfootdeclan/GetEmployed",
   "icon": "assets/icon.svg",
-  "privacyPolicyUrl": "https://github.com/linfootdeclan/job-hunt/blob/main/PRIVACY.md",
+  "privacyPolicyUrl": "https://github.com/linfootdeclan/GetEmployed/blob/main/PRIVACY.md",
   "displayName": "GetEmployed"
 }

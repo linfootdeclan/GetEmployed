@@ -5,7 +5,7 @@ A plugin that runs a job search from start to finish. It starts by learning what
 ## Install
 
 ```
-/plugin marketplace add linfootdeclan/job-hunt
+/plugin marketplace add linfootdeclan/GetEmployed
 /plugin install get-employed@get-employed
 ```
 
