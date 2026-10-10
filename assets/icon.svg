@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Plugin icon: a trail of steps leading to a checked flag">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Plugin icon: a sheet of paper with lines of text and a green check mark at the top right">
   <rect width="256" height="256" rx="48" fill="#1F4E5F"/>
-  <path d="M52 192 C84 192 84 150 116 150 C148 150 148 108 180 108" fill="none" stroke="#F2C14E" stroke-width="12" stroke-linecap="round" stroke-dasharray="2 22"/>
-  <circle cx="52" cy="192" r="14" fill="#F2C14E"/>
-  <path d="M180 108 V52" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
-  <path d="M180 52 H214 L202 70 L214 88 H180 Z" fill="#FFFFFF"/>
-  <path d="M188 70 L194 76 L206 62" fill="none" stroke="#1F4E5F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M68 40 H164 L204 80 V216 H68 Z" fill="#FFFFFF"/>
+  <path d="M164 40 V80 H204 Z" fill="#CFD8DC"/>
+  <g stroke="#7A8A92" stroke-width="9" stroke-linecap="round">
+    <path d="M90 108 H150"/>
+    <path d="M90 136 H182"/>
+    <path d="M90 164 H182"/>
+    <path d="M90 192 H146"/>
+  </g>
+  <circle cx="196" cy="60" r="34" fill="#2E9E5B" stroke="#1F4E5F" stroke-width="8"/>
+  <path d="M180 61 L192 73 L213 49" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
