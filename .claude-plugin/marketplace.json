@@ -1,0 +1,12 @@
+{
+  "name": "job-hunt",
+  "description": "Job search tools for Claude: find openings, build applications, track replies.",
+  "owner": { "name": "Declan Linfoot", "email": "linfoot.declan@gmail.com" },
+  "plugins": [
+    {
+      "name": "job-hunt",
+      "source": "./",
+      "description": "Learns what job you want, finds matching openings, builds tailored applications, fills forms for your review, drafts outreach, and tracks every reply."
+    }
+  ]
+}

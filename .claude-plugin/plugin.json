@@ -1,0 +1,13 @@
+{
+  "name": "job-hunt",
+  "version": "0.18.2",
+  "description": "Starts by learning what job you want, then finds matching openings, builds tailored résumés and cover letters, fills applications for your review, contacts hiring managers, and tracks every reply.",
+  "author": {
+    "name": "Declan Linfoot",
+    "email": "linfoot.declan@gmail.com",
+    "url": "https://github.com/linfootdeclan"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/linfootdeclan/job-hunt",
+  "repository": "https://github.com/linfootdeclan/job-hunt"
+}
